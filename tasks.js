@@ -8,3 +8,4 @@ var tasks =
   'Napisać sprawozdanie',
   'Pójść na zakupy'
 ];
+//jest ok
